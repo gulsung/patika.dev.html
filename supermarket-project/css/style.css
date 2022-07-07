@@ -1,0 +1,37 @@
+.center{
+    text-align: center;
+}
+.licenter{
+    list-style-position: inside;
+    display: table; 
+    text-align: left;
+    margin: 0 auto;
+}
+.white{
+    color: whitesmoke;
+}
+.red{
+    color: #E27D60;
+}
+.orange{
+    color: #C38D9E;
+}
+.blue{
+    color: #659DBD;
+}
+/********** Colors **********/
+.wheatback{
+    background-color: wheat;
+}
+.greenback{
+    background-color: #85DCB8;
+}
+.blueback{
+    background-color: #659DBD;
+}
+/********** Size **********/
+img{
+    width: 320px;
+    height: 213px;
+    border-radius: 15%;
+}
